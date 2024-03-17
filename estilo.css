@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+
+    height: 100vh;
+    background-color: black;
+}
+section{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+p{
+    color: white;
+    font-size: 32px;
+}
+h1{
+    color: white;
+}
