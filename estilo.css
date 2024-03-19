@@ -11,12 +11,12 @@ section{
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
- 
+    margin: 10%;
 }
 p{
     color: white;
     font-size: 32px;
 }
 h1{
-    color: white;
+    color: red;
 }
