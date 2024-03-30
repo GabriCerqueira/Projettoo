@@ -7,11 +7,11 @@ let validador = 0;
 
 
 function cinza  (){
-    fundo.style.backgroundColor = "gray";
+    fundo.style.backgroundColor = "purple";
         validador++;
 };
 function azul(){
-    fundo.style.backgroundColor = "blue";
+    fundo.style.backgroundColor = "black";
     validador--;
     console.log(validador)
 
